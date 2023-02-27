@@ -20,4 +20,4 @@ I currently work with software analysis
 <img src="https://github-readme-stats.vercel.app/api?username=Gabo700&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabo700&layout=compact)](https://github.com/Gabo700/github-readme-stats)
+
