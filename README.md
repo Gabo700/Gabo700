@@ -3,7 +3,7 @@ Hi there. I'm Gabriel Ribeiro.
 I currently work with software analysis
 
 
-![]([https://media.giphy.com/media/cnbsOTkEJnq0/giphy.gif](https://i.giphy.com/media/kmQREsvNQrhrHdkN7G/giphy.webp))
+![](https://media.giphy.com/media/cnbsOTkEJnq0/giphy.gif)
 
 
 
