@@ -4,7 +4,7 @@ I currently work with software analysis
 
 
 ![](https://media.giphy.com/media/cnbsOTkEJnq0/giphy.gif)
-![]([https://media.giphy.com/media/cnbsOTkEJnq0/giphy.gif](https://media3.giphy.com/media/kmQREsvNQrhrHdkN7G/giphy.gif?cid=ecf05e472y5kwndh45gvsfplg2bgecok1jw9u8i16fnk7m6k&rid=giphy.gif&ct=g))
+![](https://media.giphy.com/media/cnbsOTkEJnq0/giphy.gif)
 
 
 
