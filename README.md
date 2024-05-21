@@ -1,5 +1,4 @@
-Hi there. I'm Gabriel Ribeiro.
-
+Hi there.
 
 
 ![](https://media.giphy.com/media/cnbsOTkEJnq0/giphy.gif)
